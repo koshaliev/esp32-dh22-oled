@@ -1,7 +1,5 @@
 #include <DHT.h>
-#include <Wire.h>
 #include <Adafruit_SSD1306.h>
-#include <cmath>
 #include <WiFi.h>
 #include <WebServer.h>
 
